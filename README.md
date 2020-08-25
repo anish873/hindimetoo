@@ -1,2 +1,2 @@
 # hindimetoo
-hnidi me too
+Hindi me too
